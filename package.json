@@ -1,6 +1,6 @@
 {
   "name": "bitcore-mnemonic-dash",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
