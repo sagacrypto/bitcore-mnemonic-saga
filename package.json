@@ -1,6 +1,6 @@
 {
   "name": "bitcore-mnemonic-dash",
-  "version": "1.2.2",
+  "version": "1.5.0",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -14,6 +14,10 @@
     {
       "name": "Yemel Jardi",
       "email": "angel.jardi@gmail.com"
+    },
+    {
+      "name": "Matias Alejo Garcia",
+      "email": "ematiu@gmail.com"
     }
   ],
   "repository": {
@@ -31,14 +35,14 @@
   "license": "MIT",
   "devDependencies": {
     "assert": "^1.1.2",
-    "bitcore-build-dash": "dashpay/bitcore-build-dash",
+    "bitcore-build-dash": "snogcel/bitcore-build-dash#master_upstream",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bitcore-lib-dash": "^0.14.0",
+    "bitcore-lib-dash": "^0.15.0",
     "unorm": "^1.3.3"
   }
 }

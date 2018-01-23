@@ -2,5 +2,5 @@
 
 var gulp_bitcore = require('bitcore-build-dash');
 
-gulp_bitcore('mnemonic');
+gulp_bitcore('mnemonic-dash');
 
