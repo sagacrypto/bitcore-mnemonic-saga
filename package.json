@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-mnemonic-dash",
+  "name": "@dashevo/bitcore-mnemonic",
   "version": "1.2.2",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "BitPay <dev@bitpay.com>",
