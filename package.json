@@ -1,7 +1,7 @@
 {
-  "name": "@dashevo/bitcore-mnemonic",
+  "name": "@dashevo/dashcore-mnemonic",
   "version": "1.2.2",
-  "description": "BIP39 Mnemonics implemented for Bitcore.",
+  "description": "BIP39 Mnemonics implemented for Dashcore.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashpay/bitcore-mnemonic-dash.git"
+    "url": "https://github.com/dashevo/dashcore-mnemonic.git"
   },
   "keywords": [
     "dash",
@@ -26,7 +26,8 @@
     "mnemonic",
     "crypto",
     "cryptography",
-    "encryption"
+    "encryption",
+    "dashcore"
   ],
   "license": "MIT",
   "devDependencies": {
