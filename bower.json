@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-mnemonic-dash",
-  "main": "./bitcore-mnemonic-dash.min.js",
+  "name": "bitcore-mnemonic",
+  "main": "./bitcore-mnemonic.min.js",
   "version": "1.1.4",
-  "homepage": "https://github.com/dashpay/bitcore-mnemonic-dash",
+  "homepage": "https://github.com/sagacrypto/bitcore-mnemonic-saga",
   "authors": [
     "BitPay"
   ],
@@ -11,7 +11,7 @@
     "globals"
   ],
   "keywords": [
-    "dash",
+    "sagacoin",
     "bitcore",
     "satoshi",
     "mnemonic"
